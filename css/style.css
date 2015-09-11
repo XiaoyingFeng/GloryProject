@@ -1,0 +1,142 @@
+#home #hero {
+	 background-image: url('../images/bg/home.jpg');
+	border-bottom: ;
+}
+
+#home #hero .jp-sub-text{
+    margin-top: 240px;
+}
+
+#section3 #info h3{
+        font-size: 26px;
+        font-family: Myriad Pro, Lato, Helvetica Neue, Arial;
+        color: #444;
+        line-height: 25px;
+        font-weight: 600;
+        margin-bottom: 7px;
+
+}
+
+#section2 #info h3{	
+	    font-size: 26px;
+        font-family: Myriad Pro, Lato, Helvetica Neue, Arial;
+        color: #444;
+        line-height: 25px;
+        font-weight: 600;
+        margin-bottom: 7px;
+}
+
+  
+#home #footer-white{
+	padding-top: 0px;
+}
+  
+
+ #section3 #info p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #666;
+    margin-top: 14px;
+    line-height: 24px;
+}
+#section2 #info p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #666;
+    margin-top: 14px;
+    line-height: 24px;
+}
+
+#section6 #showcase .gallery_container p {
+	padding-left: inherit;
+    margin: 0 0 10px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #666;
+    /* margin-top: 12px; */
+    line-height: 24px;
+}
+
+
+/*japanese version */
+.jp nav li .nav1 span {
+  display: none;
+}
+.jp nav li .nav1:after {
+  content: '言語 ';
+}
+
+.jp nav li .nav2 span{
+    display: none;
+}
+
+.jp nav li .nav2:after{
+    content: '沿革';
+}
+
+.jp nav li .nav3 span{
+    display: none;
+}
+
+.jp nav li .nav3:after{
+    content: '弊社の使命';
+}
+
+.jp nav li .nav4 span{
+    display: none;
+}
+
+.jp nav li .nav4:after{
+    content: 'グループ会社';
+}
+
+.jp nav li .nav5 span{
+    display: none;
+}
+
+.jp nav li .nav5:after{
+    content: '生産';
+}
+
+.jp nav li .nav6 span{
+    display: none;
+}
+
+.jp nav li .nav6:after{
+    content: '生産能力';
+}
+
+
+.jp nav li .nav7 span{
+    display: none;
+}
+
+.jp nav li .nav7:after{
+    content: '品質保証&市場';
+}
+
+.jp nav li .nav8 span{
+    display: none;
+}
+
+.jp nav li .nav8:after{
+    content: 'ギャラリー';
+}
+
+.jp nav li .nav9 span{
+    display: none;
+}
+
+.jp nav li .nav9:after{
+    content: 'ログイン';
+}
+
+.jp nav li .nav10 span{
+    display: none;
+}
+
+.jp nav li .nav10:after{
+    content: '所在地';
+}
+
+
