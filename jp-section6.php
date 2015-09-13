@@ -18,26 +18,38 @@
 				</div>
 			</div>
 			<div class="row gallery_container">
+				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/2pOueZgkxW4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Yarn Drying</p>
+				</div>
+				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/R9xX_8u9jB0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>				
+					<p>Yarn on cones </p>
+				</div>
+				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/hRo6zQZzpkk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Knitting chart making</p>
+				</div>
 				<div class="col-md-4 ">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/RvMnwDHh7hY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Screen Printing</p>
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/suN_WVl7e-M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Computer machine knitting</p>
 				</div>
 				<div class="col-md-4">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/HTMAz79tss0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>					
-						<p>Digital Printing </p>
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/5Rt2R-en3Vc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Fine gauge linking</p>
 				</div>
 				<div class="col-md-4">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/3HcW59dZywk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>				
-						<p>After Printing</p>
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/dq9V6ARyeNU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Extra yarn thread removing from knitted panel & trim</p>
+				</div>
+				<div class="col-md-4 ">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/g5am4UjMp98?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Garment washing</p>
 				</div>
 				<div class="col-md-4">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/fivQb7J4TWc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>				
-						<p>Dip Dye </p>
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/OzM_Wp-uIh4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Light checking and cleaning </p>
 				</div>
-				<div class="col-md-4">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/R9xX_8u9jB0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>				
-						<p>Yarn on cones </p>
-				</div>			
 				<div class="col-md-4">
 					<iframe width="1280" height="720" src="https://www.youtube.com/embed/QrEzHOaxKSs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 					<p>Garment Pressing </p>
@@ -47,13 +59,9 @@
 					<p> Measurement checking & Labelling </p>
 				</div>
 				<div class="col-md-4">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/e3bfWO-Eyv8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-					<p>Button </p>
-				</div>
-				<div class="col-md-4">
 					<iframe width="1280" height="720" src="https://www.youtube.com/embed/RTmCWtY2Q54?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 					<p>Loosen thread checking & correcting </p>
 				</div>
 			</div>
-	</div>
+		</div>
 </div>

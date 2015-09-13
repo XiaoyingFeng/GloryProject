@@ -20,40 +20,20 @@
 			</div>
 			<div class="row gallery_container">
 				<div class="col-md-4 ">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/g5am4UjMp98?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Garment washing</p>
+						<iframe width="1280" height="720" src="https://www.youtube.com/embed/RvMnwDHh7hY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						<p>Screen Printing</p>
 				</div>
 				<div class="col-md-4">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/OzM_Wp-uIh4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Light checking and cleaning </p>
-				</div>
+						<iframe width="1280" height="720" src="https://www.youtube.com/embed/HTMAz79tss0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>					
+						<p>Digital Printing </p>
+				</div>	
+					<div class="col-md-4">
+						<iframe width="1280" height="720" src="https://www.youtube.com/embed/3HcW59dZywk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>				
+						<p>After Printing</p>
+				</div>		
 				<div class="col-md-4">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/dq9V6ARyeNU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Extra yarn thread removing from knitted panel & trim</p>
-				</div>
-				<div class="col-md-4">
-						<iframe width="1280" height="720" src="https://www.youtube.com/embed/RYWGn-ofa_4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Hand Crochet </p>
-				</div>
-				<div class="col-md-4">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/tGaVy7HPGAg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Hand knotted fringe hanging on garment</p>
-				</div>			
-				<div class="col-md-4">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/5Rt2R-en3Vc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-					<p>Fine gauge linking</p>
-				</div>
-				<div class="col-md-4">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/Nm9I3IH-rqs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-					<p>Paper pattern & fabric cutting</p>
-				</div>
-				<div class="col-md-4">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/-VEXL6f8zFw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-					<p>Heat set stone </p>
-				</div>
-				<div class="col-md-4">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/hRo6zQZzpkk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-					<p>Knitting chart making</p>
+						<iframe width="1280" height="720" src="https://www.youtube.com/embed/fivQb7J4TWc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>				
+						<p>Dip Dye </p>
 				</div>
 			</div>
 		</div>

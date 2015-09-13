@@ -19,18 +19,30 @@
 				</div>
 			</div>
 			<div class="row gallery_container">
-				<div class="col-md-4 ">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/suN_WVl7e-M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Computer machine knitting</p>
-				</div>
+				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/Nm9I3IH-rqs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Paper pattern & fabric cutting</p>
+				</div>		
+				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/e3bfWO-Eyv8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Button </p>
+				</div>	
+				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/-VEXL6f8zFw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<p>Heat set stone </p>
+				</div>					
+				<div class="col-md-4">
+						<iframe width="1280" height="720" src="https://www.youtube.com/embed/RYWGn-ofa_4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						<p>Hand Crochet </p>
+				</div>			
 				<div class="col-md-4">
 					<iframe width="1280" height="720" src="https://www.youtube.com/embed/efi9KxjqTuA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 						<p>Hand beading </p>
 				</div>
 				<div class="col-md-4">
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/2pOueZgkxW4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-						<p>Yarn Drying</p>
-				</div>
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/tGaVy7HPGAg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						<p>Hand knotted fringe hanging on garment</p>
+				</div>				
 			</div>
 		</div>
 	</div>
