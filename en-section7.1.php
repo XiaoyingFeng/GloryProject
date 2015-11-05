@@ -1,11 +1,4 @@
 <div id="section7">	
-	<div id="map" style="height:400px;">	
-		<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/?ie=UTF8&amp;ll=35.6506239,139.7042217&amp;spn=0.023259,0.038495&amp;t=m&amp;z=15&amp;output=embed"></iframe>
-		<div class="marker-wrapper">
-			<div class="marker-icon"></div>
-			<div class="marker"></div>
-		</div>
-	</div>
 
 	<div id="info" style ="margin-top: 50px">
 		<div class="container">

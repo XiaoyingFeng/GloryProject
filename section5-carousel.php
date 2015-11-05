@@ -6,9 +6,9 @@
   			</ol>
   			<!-- Carousel items -->
   			<div class="carousel-inner">
-  			  <div class="active item">	<img src="images/office2.png" alt="office2" /></div>
+  			  <div class="active item">	<img src="images/bg/about_us.jpg" alt="office" /></div>
   			  <div class="item"><img src="images/bg/green.jpg" alt="green" /></div>
-  			  <div class="item"><img src="images/bg/yellow.jpg" alt="red" /></div>
+  			  <div class="item"><img src="images/bg/building.jpg" alt="red" /></div>
   			</div>
   			<!-- Carousel nav -->
   			<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>

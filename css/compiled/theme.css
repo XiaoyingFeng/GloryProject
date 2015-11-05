@@ -6625,13 +6625,13 @@ html.bg {
     font-size: 12px;
     color: #969CAD; }
 
-#timeline {
+#section1 {
   background: #f7f8fa; }
-  #timeline .timeline-wrapper {
+  #section1 .timeline-wrapper {
     margin-top: 60px;
     position: relative;
     /* the first node that comes right next to a year */ }
-    #timeline .timeline-wrapper:before {
+    #section1 .timeline-wrapper:before {
       content: '';
       position: absolute;
       width: 5px;
@@ -6641,26 +6641,26 @@ html.bg {
       right: 0;
       margin: 0 auto;
       z-index: -1; }
-    #timeline .timeline-wrapper .year {
+    #section1 .timeline-wrapper .year {
       text-align: center;
       margin-bottom: 50px;
       margin-top: 50px;
       font-size: 16px; }
-      #timeline .timeline-wrapper .year:nth-child(1) {
+      #section1 .timeline-wrapper .year:nth-child(1) {
         margin-top: 0px;
         margin-bottom: 60px; }
-      #timeline .timeline-wrapper .year.last {
+      #section1 .timeline-wrapper .year.last {
         margin-bottom: 0;
         font-size: 21px; }
-      #timeline .timeline-wrapper .year span {
+      #section1 .timeline-wrapper .year span {
         display: inline-block;
         background: #E7E8EC;
         padding: 6px 20px;
         color: #5A5A5A;
         border-radius: 3px; }
-    #timeline .timeline-wrapper .year + .node {
+    #section1 .timeline-wrapper .year + .node {
       margin-top: -20px; }
-    #timeline .timeline-wrapper .node {
+    #section1 .timeline-wrapper .node {
       position: relative;
       float: right;
       clear: right;
@@ -6669,25 +6669,25 @@ html.bg {
       border-radius: 5px;
       /*&:nth-child(2n) {*/ }
       @media (max-width: 767px) {
-        #timeline .timeline-wrapper .node {
+        #section1 .timeline-wrapper .node {
           width: 100%; } }
-      #timeline .timeline-wrapper .node.left {
+      #section1 .timeline-wrapper .node.left {
         float: left;
         clear: left; }
-        #timeline .timeline-wrapper .node.left:before {
+        #section1 .timeline-wrapper .node.left:before {
           right: -51px;
           left: inherit; }
           @media (max-width: 991px) {
-            #timeline .timeline-wrapper .node.left:before {
+            #section1 .timeline-wrapper .node.left:before {
               right: -42px;
               width: 43px; } }
-        #timeline .timeline-wrapper .node.left .marker {
+        #section1 .timeline-wrapper .node.left .marker {
           left: inherit;
           right: -65px; }
           @media (max-width: 991px) {
-            #timeline .timeline-wrapper .node.left .marker {
+            #section1 .timeline-wrapper .node.left .marker {
               right: -52px; } }
-      #timeline .timeline-wrapper .node:before {
+      #section1 .timeline-wrapper .node:before {
         content: '';
         position: absolute;
         width: 50px;
@@ -6696,13 +6696,13 @@ html.bg {
         left: -51px;
         top: 62px; }
         @media (max-width: 991px) {
-          #timeline .timeline-wrapper .node:before {
+          #section1 .timeline-wrapper .node:before {
             left: -42px;
             width: 43px; } }
         @media (max-width: 767px) {
-          #timeline .timeline-wrapper .node:before {
+          #section1 .timeline-wrapper .node:before {
             display: none; } }
-      #timeline .timeline-wrapper .node .marker {
+      #section1 .timeline-wrapper .node .marker {
         position: absolute;
         width: 17px;
         height: 17px;
@@ -6712,20 +6712,20 @@ html.bg {
         top: 55px;
         border: 3px solid #F7F8FA; }
         @media (max-width: 991px) {
-          #timeline .timeline-wrapper .node .marker {
+          #section1 .timeline-wrapper .node .marker {
             left: -51px; } }
         @media (max-width: 767px) {
-          #timeline .timeline-wrapper .node .marker {
+          #section1 .timeline-wrapper .node .marker {
             display: none; } }
-      #timeline .timeline-wrapper .node .entry {
+      #section1 .timeline-wrapper .node .entry {
         position: relative;
         padding: 20px;
-        height: 400px;
+        height: 250px;
         background-size: cover;
         background-position: center center;
         border-radius: 5px;
         box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.26); }
-        #timeline .timeline-wrapper .node .entry:before {
+        #section1 .timeline-wrapper .node .entry:before {
           position: absolute;
           top: 50%;
           bottom: 0;
@@ -6737,11 +6737,11 @@ html.bg {
           background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(15, 24, 49, 0.89) 100%);
           background: -o-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(15, 24, 49, 0.89) 100%);
           background: linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(15, 24, 49, 0.89) 100%); }
-        #timeline .timeline-wrapper .node .entry.smallish {
+        #section1 .timeline-wrapper .node .entry.smallish {
           height: 320px; }
-          #timeline .timeline-wrapper .node .entry.smallish .intro {
+          #section1 .timeline-wrapper .node .entry.smallish .intro {
             top: 68%; }
-        #timeline .timeline-wrapper .node .entry.short-entry {
+        #section1 .timeline-wrapper .node .entry.short-entry {
           background: #E7E8EC;
           color: #848C94;
           height: inherit;
@@ -6752,45 +6752,45 @@ html.bg {
           left: -1px;
           margin-bottom: 20px;
           text-shadow: 1px 1px rgba(255, 255, 255, 0.4); }
-          #timeline .timeline-wrapper .node .entry.short-entry:before {
+          #section1 .timeline-wrapper .node .entry.short-entry:before {
             background: none; }
-        #timeline .timeline-wrapper .node .entry .intro {
+        #section1 .timeline-wrapper .node .entry .intro {
           position: relative;
           top: 75%;
           color: #FFF;
           z-index: 9;
           letter-spacing: .3px; }
-          #timeline .timeline-wrapper .node .entry .intro h4 {
+          #section1 .timeline-wrapper .node .entry .intro h4 {
             font-size: 20px;
             text-shadow: 1px 1px rgba(0, 0, 0, 0.69);
             letter-spacing: .5px; }
             @media (max-width: 767px) {
-              #timeline .timeline-wrapper .node .entry .intro h4 {
+              #section1 .timeline-wrapper .node .entry .intro h4 {
                 font-size: 17px; } }
-          #timeline .timeline-wrapper .node .entry .intro p {
+          #section1 .timeline-wrapper .node .entry .intro p {
             font-weight: 300; }
             @media (max-width: 767px) {
-              #timeline .timeline-wrapper .node .entry .intro p {
+              #section1 .timeline-wrapper .node .entry .intro p {
                 font-size: 13px; } }
-      #timeline .timeline-wrapper .node .news {
+      #section1 .timeline-wrapper .node .news {
         position: relative;
         background-size: cover;
         background-position: center center;
         border-radius: 5px;
         box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.26);
         background: #fff; }
-        #timeline .timeline-wrapper .node .news section {
+        #section1 .timeline-wrapper .node .news section {
           padding: 30px 20px 60px 20px; }
-          #timeline .timeline-wrapper .node .news section h3 {
-            margin-top: 0;
+          #section1 .timeline-wrapper .node .news section h3 {
+            margin-top: 0;f
             font-size: 17px;
             line-height: 22px; }
-          #timeline .timeline-wrapper .node .news section p {
+          #section1 .timeline-wrapper .node .news section p {
             margin-top: 21px;
             line-height: 22px;
             font-size: 13px;
             color: #7A7979; }
-        #timeline .timeline-wrapper .node .news footer {
+        #section1 .timeline-wrapper .node .news footer {
           position: absolute;
           bottom: 0;
           padding: 12px 20px;
@@ -6798,11 +6798,11 @@ html.bg {
           font-size: 12px;
           font-weight: 500;
           color: #9EAEBE; }
-          #timeline .timeline-wrapper .node .news footer .tag {
+          #section1 .timeline-wrapper .node .news footer .tag {
             position: relative;
             padding-left: 27px;
             text-transform: uppercase; }
-            #timeline .timeline-wrapper .node .news footer .tag span {
+            #section1 .timeline-wrapper .node .news footer .tag span {
               font-size: 24px;
               position: absolute;
               top: -4px;

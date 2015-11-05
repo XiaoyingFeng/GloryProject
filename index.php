@@ -55,8 +55,8 @@
                                     <span>About us</span><b class="caret"></b>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li ><a class="nav3" href="index.php?lang=<?php echo $pageLang; ?>&section=5"><span>Mission</span></a></li>
-                                    <li ><a class="nav4" href="index.php?lang=<?php echo $pageLang; ?>&section=4"><span>Our Group</span></a></li>
+                                    <li ><a class="nav3" href="index.php?lang=<?php echo $pageLang; ?>&section=5"><span>About Us</span></a></li>
+                                    <li ><a class="nav11" href="index.php?lang=<?php echo $pageLang; ?>&section=1"><span>Timeline</span></a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">

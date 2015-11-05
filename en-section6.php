@@ -4,9 +4,7 @@
 			<div class="row header">
 				<div class="col-md-12">
 					<h3>Video</h3>
-					<p>
-						Wrtring descerption here! ! !
-					</p>
+			
 				</div>
 				<div class="col-md-12 filtering">
 					<ul id="filters">
@@ -19,8 +17,12 @@
 			</div>
 			<div class="row gallery_container">
 				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/o0XLG4tw1Gk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>					
+					<p>Yarn dyeing</p>
+				</div>
+				<div class="col-md-4">
 					<iframe width="1280" height="720" src="https://www.youtube.com/embed/2pOueZgkxW4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-					<p>Yarn Drying</p>
+					<p>Yarn drying</p>
 				</div>
 				<div class="col-md-4">
 					<iframe width="1280" height="720" src="https://www.youtube.com/embed/R9xX_8u9jB0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>				
@@ -61,6 +63,10 @@
 				<div class="col-md-4">
 					<iframe width="1280" height="720" src="https://www.youtube.com/embed/RTmCWtY2Q54?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 					<p>Loosen thread checking & correcting </p>
+				</div>
+				<div class="col-md-4">
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/Lr189h2jAnY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>			
+					<p>Packing</p>
 				</div>
 			</div>
 	</div>

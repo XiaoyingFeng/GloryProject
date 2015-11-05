@@ -1,18 +1,9 @@
-	<div id="map" style="height:400px;">	
-		
-		<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/?ie=UTF8&amp;ll=40.7542538,-73.9875459&amp;spn=0.023259,0.038495&amp;t=m&amp;z=15&amp;output=embed"></iframe>
-		<div class="marker-wrapper">
-			<div class="marker-icon"></div>
-			<div class="marker"></div>
-		</div>
-	</div>
-
 
 	<div id="info" style ="margin-top: 50px">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4 contact">
-					<a href="#" ;>	
+					<a href="https://www.google.com/maps/place/1411+Broadway,+New+York,+NY+10018/@40.7542578,-73.9897399,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259ab136709bb:0xdeeec64dc3e9386b" ;>	
 						<div class="address">
 							<h3 style="color: #1f95d0;">New York オフィス</h3>
 							<p  style="color: #1f95d0;">

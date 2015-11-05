@@ -5,9 +5,7 @@
 			<div class="row header">
 				<div class="col-md-12">
 					<h3>Video Gallery</h3>
-					<p>
-						Wrtring descerption here! ! !
-					</p>
+				
 				</div>
 				<div class="col-md-12 filtering">
 					<ul id="filters">
